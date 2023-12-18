@@ -8,10 +8,15 @@ The notebook is centered around implementing a deep learning model for classific
 ## What's Happening in the Code
 
 Data Handling: Utilization of libraries like Pandas and NumPy for data manipulation and analysis.
+
 Data Visualization: Tools like Matplotlib and Seaborn for visualizing data, alongside image processing with PIL and OpenCV.
+
 Preprocessing: The sklearn library is employed for data splitting and preprocessing, which is crucial for preparing the dataset for training.
+
 Deep Learning Model: Implementation of a ResNet50 model using PyTorch. This includes model architecture, training, and evaluation.
+
 Metrics Evaluation: Use of metrics like accuracy score and confusion matrix from sklearn to assess the model's performance.
+
 Utilities: Usage of other utilities like Path for file path handling, tqdm for progress bars, and random for randomness control.
 
 ## Use Cases
@@ -19,9 +24,13 @@ Utilities: Usage of other utilities like Path for file path handling, tqdm for p
 The notebook can be applied in various real-world scenarios where image classification is essential, such as:
 
 Medical image analysis for disease detection.
+
 Automated quality control in manufacturing.
+
 Facial recognition for security systems.
+
 Wildlife monitoring through camera trap images.
+
 Autonomous vehicles for object detection and classification.
 
 ## Conclusion
