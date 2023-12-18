@@ -1,5 +1,8 @@
 # Introduction
 
+![rot](https://github.com/abdullah1772/Potato-Disease-Classification-/assets/88187437/8ed16749-b29a-4e81-b6e3-c0ddecbec8ac)
+
+
 The notebook is centered around implementing a deep learning model for classification tasks using the ResNet50 architecture. It demonstrates how to achieve a high accuracy rate, potentially up to 100%, in image classification tasks. This could be particularly useful in scenarios where precise and accurate image recognition is critical.
 
 ## What's Happening in the Code
